@@ -1,13 +1,13 @@
 # Welcome To Checkers Board Game - made in Django framework
 
-### gameplay
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.00.55%20PM.png" width="783" height="373">
+### gameplay:
+<img style="-webkit-user-select: none;margin: auto; " src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.00.55%20PM.png" width="783" height="373">
 
-### game sessions
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%202.59.56%20PM.png" width="783" height="373">
+### game sessions:
+<img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%202.59.56%20PM.png" width="783" height="373">
 
-### game recording
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.01.18%20PM.png" width="783" height="373">
+### game recording:
+<img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.01.18%20PM.png" width="383" height="373">
 
 
 # Installation Instruction
