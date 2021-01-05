@@ -4,10 +4,10 @@
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.00.55%20PM.png" width="783" height="373">
 
 ### game sessions
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%202.59.56%20PM.png" width="1430" height="650">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%202.59.56%20PM.png" width="783" height="373">
 
 ### game recording
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.01.18%20PM.png" width="640" height="625">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.01.18%20PM.png" width="783" height="373">
 
 
 # Installation Instruction
