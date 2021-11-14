@@ -8,9 +8,11 @@ from .game import Game
 from .models import *
 from django_currentuser.middleware import get_current_user, get_current_authenticated_user
 from .aiplayer import *
+
 global games, aiplayer, spectator_list
 games = {}
 spectator_list = collections.defaultdict(list)
+
 #this class is about websocket communication
 # when websocket is connected disconnects and message is received respective fuctions is triggered
 class GameConsumer(WebsocketConsumer):
