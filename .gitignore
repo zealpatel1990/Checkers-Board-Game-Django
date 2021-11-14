@@ -137,3 +137,6 @@ dmypy.jsons
 /.django_practice
 *.swp
 *.swo
+ 
+# static files
+mysite/staticfiles/* 
