@@ -1,7 +1,7 @@
 # Welcome To Checkers Board Game - made in Django framework
 
 ### gameplay:
-<img style="-webkit-user-select: none;margin: auto; " src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%203.00.55%20PM.png" width="783" height="373">
+![Screenshot (45)](https://user-images.githubusercontent.com/28397002/141667443-191d7adc-fa2e-4f74-aa03-99ca5f6f8a4d.png)
 
 ### game sessions:
 <img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/zealpatel1990/CheckersBoard-Django/zeal_branch/screenshots/Screen%20Shot%202020-12-11%20at%202.59.56%20PM.png" width="783" height="373">
