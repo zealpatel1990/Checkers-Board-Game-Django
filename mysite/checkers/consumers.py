@@ -13,6 +13,7 @@ global games, aiplayer, spectator_list
 games = {}
 spectator_list = collections.defaultdict(list)
 
+
 #this class is about websocket communication
 # when websocket is connected disconnects and message is received respective fuctions is triggered
 class GameConsumer(WebsocketConsumer):
