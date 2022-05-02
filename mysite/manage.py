@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-from mysite import start_redis_server
 
 def main():
 	"""Run administrative tasks."""
